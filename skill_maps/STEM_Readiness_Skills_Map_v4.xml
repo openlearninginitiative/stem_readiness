@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills-map>
+    <skills>
+	<skill id="algebra_rearrange_opposite">Identify opposite operations</skill>
+	<skill id="algebra_rearrange_rules">Apply algebra rules</skill>
+	<skill id="apply_calculate_skill">Apply information gained from calculations.</skill>
+	<skill id="arithmetic_fractions_add_steps">Steps for adding or subtracting like fractions</skill>
+	<skill id="arithmetic_fractions_add_unlike_equiv">Convert fractions to equivalent fractions</skill>
+	<skill id="arithmetic_fractions_add_unlike_LCD">Identify LCD</skill>
+	<skill id="arithmetic_fractions_add_unlike_steps">Steps for adding or subtracting unlike fractions</skill>
+	<skill id="arithmetic_fractions_convert_multiply_percent">Multiply percents.</skill>
+	<skill id="arithmetic_fractions_convert_steps_decimal">Steps to convert from fraction to decimal</skill>
+	<skill id="arithmetic_fractions_convert_steps_percent">Steps to convert from fraction to percent</skill>
+	<skill id="arithmetic_fractions_convert_steps_percent_2_dec">Convert percents to fractions</skill>
+	<skill id="arithmetic_fractions_multiply_divide_steps">Steps for dividing fractions</skill>
+	<skill id="arithmetic_fractions_multiply_steps">Steps for multiplying fractions</skill>
+	<skill id="arithmetic_fractions_reduce_GCF">Identify GCF</skill>
+	<skill id="arithmetic_fractions_reduce_steps">Steps to reduce fraction to simplest form</skill>
+	<skill id="arithmetic_fractions_scenario">Apply numerator and denominator to scenario</skill>
+	<skill id="arithmetic_II_variables_skill">Recognize what variables represent in an equation</skill>
+	<skill id="arithmetic_operations_add">Additional Operator</skill>
+	<skill id="arithmetic_operations_add_identify">Recognize when to use addition</skill>
+	<skill id="arithmetic_operations_communitive">Compare for communitive property</skill>
+	<skill id="arithmetic_operations_decimal">Operations on decimals</skill>
+	<skill id="arithmetic_operations_divide">Division Operator</skill>
+	<skill id="arithmetic_operations_divide_identify">Recognize when to use division</skill>
+	<skill id="arithmetic_operations_multiply">Multiplication Operator</skill>
+	<skill id="arithmetic_operations_multiply_identify">Recognize when to use multiplication</skill>
+	<skill id="arithmetic_operations_negative_add_negative">Addition with negative values</skill>
+	<skill id="arithmetic_operations_negative_divide">Division with negative values</skill>
+	<skill id="arithmetic_operations_negative_less_than">Recognize greater than/less than with negative values</skill>
+	<skill id="arithmetic_operations_negative_multiply">Multiplication with negative values</skill>
+	<skill id="arithmetic_operations_negative_subtract_negative">Subtraction with negative values</skill>
+	<skill id="arithmetic_operations_num_denom">Identify the numerator and denominator</skill>
+	<skill id="arithmetic_operations_subtract">Subtraction operator</skill>
+	<skill id="arithmetic_operations_subtract_identify">Recognize when to use subtraction</skill>
+	<skill id="arithmetic_operations_whole">Operations on whole numbers</skill>
+	<skill id="arithmetic_round">Round numbers to a place value</skill>
+	<skill id="audio_complete_skill">Listen to conversation, determine information needed.</skill>
+	<skill id="audio_summary_skill">Summarize information from audio.</skill>
+	<skill id="behavior_types_skill">Identify positive and negative behaviors in customer service situations.</skill>
+	<skill id="calculate_skill">Choose and compute calculations.</skill>
+	<skill id="cartesian_distance_formula">Apply the distance formula.</skill>
+	<skill id="cartesian_graph_line_equation">Apply the process of graphing a line.</skill>
+	<skill id="cartesian_identify_slope_skill">Identify slope as positive, negative, undefined or zero</skill>
+	<skill id="cartesian_intercept_skill">Recognize x and y intercepts.</skill>
+	<skill id="cartesian_linear_equation_equation">Apply the linear equation</skill>
+	<skill id="cartesian_linear_equation_y">Determine y-intercept.</skill>
+	<skill id="cartesian_midpoint_formula">Apply the midpoint formula.</skill>
+	<skill id="cartesian_ordered_pair_skill">Determine ordered pair of a plotted point.</skill>
+	<skill id="cartesian_plot_points_skill">Plot points.</skill>
+	<skill id="cartesian_quadrant_skill">Identify quadrants of the cartesian plane.</skill>
+	<skill id="cartesian_slope_formula_formula">Determine slope using formula.</skill>
+	<skill id="cartesian_slope_graph_skill">Determine slope from graph.</skill>
+	<skill id="com_problem_solve_carry_out">Carry out the plan.</skill>
+	<skill id="com_problem_solve_evaluate">Evaluate the results.</skill>
+	<skill id="com_problem_solve_plan">Make a plan based on strategy.</skill>
+	<skill id="com_problem_solve_problem">Determine the problem.</skill>
+	<skill id="com_problem_solve_strategies">Analyze strategies.</skill>
+	<skill id="confident_storage_skill">Identify common locations where confidential info is stored.</skill>
+	<skill id="confidentiality_apply_skill">Actions to maintain confidentiality.</skill>
+	<skill id="confidentiality_breach_response_skill">Actions to take if confidentiality is breached.</skill>
+	<skill id="confidentiality_criminals_skill">Identify ways cybercriminals try to get confidential info.</skill>
+	<skill id="confidentiality_protection_skill">Practices to safegaurd confidential information.</skill>
+	<skill id="confidentiality_social_media_skill">Recognize the role social media plays in confidentiality</skill>
+	<skill id="confidentiality_types_skill">Describe types of confidential information.</skill>
+	<skill id="cross_product_skill">Solve equations using the cross-product.</skill>
+	<skill id="customer_types_skill">Identify customer types.</skill>
+	<skill id="data_define_mean">Define mean</skill>
+	<skill id="data_define_median">Define median</skill>
+	<skill id="data_define_mode">Define mode</skill>
+	<skill id="data_determine_mean">Calculate mean</skill>
+	<skill id="data_determine_median">Calculate median</skill>
+	<skill id="data_determine_median_mode">Calculate mode</skill>
+	<skill id="data_identify_skill">Identify a line, bar and pie graphs</skill>
+	<skill id="data_steps_graph_skill">Recognize steps used to set up graphs.</skill>
+	<skill id="data_use_bar">Identify uses for bar graphs</skill>
+	<skill id="data_use_line">Identify uses for line graphs</skill>
+	<skill id="data_use_pie">Identify uses for pie charts</skill>
+	<skill id="define_confidentiality_skill">Define confidentiality and explain its importance.</skill>
+	<skill id="effective_strategies_skill">Determine effective strategies for dealing with customers.</skill>
+	<skill id="email_body">Proper format for the body of an email.</skill>
+	<skill id="email_end">Proper format for the ending of an email.</skill>
+	<skill id="email_intro">Proper format for beginning of an email.</skill>
+	<skill id="essay_skill">Write an essay.</skill>
+	<skill id="filling_forms_skill">Enter information on a form.</skill>
+	<skill id="forms_importance_skill">Recognize the importance of filling in forms accurately.</skill>
+	<skill id="info_diagram_diagram">Interpret information from a diagram.</skill>
+	<skill id="info_diagram_flowchart">Interpret information from a flowchart.</skill>
+	<skill id="info_multiple_skill">Intergrate information from multiple sources and draw conclusions.</skill>
+	<skill id="info_table_skill">Interpret information from a chart or table.</skill>
+	<skill id="info_text_bulleted_list">Interpret text from bulleted list.</skill>
+	<skill id="info_text_key_terms">Identify key terms.</skill>
+	<skill id="info_text_skill">Locate and interpret information from text.</skill>
+	<skill id="info_text_topic_sentence">Identify the topic sentence in a paragraph.</skill>
+	<skill id="interpret_graph_skill">Interpret graphs</skill>
+	<skill id="job_cover_letter_skill">Create a cover letter.</skill>
+	<skill id="job_create_target_skill">Create a resume.</skill>
+	<skill id="job_identify_skills_skill">Identify skills.</skill>
+	<skill id="job_locate_skill">Locate jobs that match skills.</skill>
+	<skill id="job_master_skill">Create a master application.</skill>
+	<skill id="job_resources_skill">Resources for job search.</skill>
+	<skill id="job_resume_type_chron">Chronological resume.</skill>
+	<skill id="job_resume_type_combo">Combination resume.</skill>
+	<skill id="job_resume_type_func">Functional resume.</skill>
+	<skill id="measurements_algebra_distributive_apply">Apply the distributive property</skill>
+	<skill id="measurements_algebra_exponents_law_skill">Apply the Law of exponents.</skill>
+	<skill id="measurements_algebra_polynomials_terms">Add and subtract like terms</skill>
+	<skill id="measurements_algebra_sphere_exp">Calculate exponents</skill>
+	<skill id="measurements_algebra_sphere_order">Follow the order of operations to solve an equation</skill>
+	<skill id="measurements_area_area">Calculate area.</skill>
+	<skill id="measurements_area_perimeter">Calculate perimeter.</skill>
+	<skill id="measurements_area_substitute">Substitute values in for variables in an equation.</skill>
+	<skill id="measurements_area_polygon_skill">Calculate the perimeter of a polygon.</skill>
+	<skill id="measurements_circumference_circle_skill">Calculate the circumference of a circle.</skill>
+	<skill id="measurements_english_conv_DA">Steps for Dimensional Analysis.</skill>
+	<skill id="measurements_english_conv_units">Chose correct ratio (english-english) to convert.</skill>
+	<skill id="measurements_english_metric_units">Chose correct ratio (english-metric) to convert.</skill>
+	<skill id="measurements_identify_un_distance">Identify units used to measure distance.</skill>
+	<skill id="measurements_identify_un_temperature">Identify units used to measure temperature.</skill>
+	<skill id="measurements_identify_un_time">Identify units used to measure time.</skill>
+	<skill id="measurements_identify_un_weight">Identify units used to measure weight.</skill>
+	<skill id="measurements_metric_conv_measurements">Recognize types of metric measurements</skill>
+	<skill id="measurements_metric_conv_prefixes">Metric prefixes</skill>
+	<skill id="measurements_metric_conv_steps">Use steps for converting between metric units.</skill>
+	<skill id="measurements_metric_conv_units">Recognize metric units</skill>
+	<skill id="measurements_tools_distance">Identify common tools used to measure distance.</skill>
+	<skill id="measurements_tools_temperature">Identify common tools used to measure temperature.</skill>	
+	<skill id="measurements_tools_time">Identify common tools used to measure time.</skill>
+	<skill id="measurements_tools_weight">Identify common tools used to measure weight.</skill>
+	<skill id="measurements_types_weight">Identify types of measurements in a scenario</skill>
+	<skill id="measurements_volume_units">Recognize units used to measure volume</skill>
+	<skill id="measurements_volume_volume">Calculate volume</skill>
+	<skill id="memo_action">Write an action statement for a memo.</skill>
+	<skill id="memo_support">Recognize appropriate support statements for a memo.</skill>
+	<skill id="org_determine_time_skill">Time needed for tasks.</skill>
+	<skill id="org_evaluate_skill">Evaluate organizational plan.</skill>
+	<skill id="org_identify_tasks_skill">Identify tasks.</skill>
+	<skill id="org_plan_skill">Determine steps in process.</skill>
+	<skill id="powerpoint_clarity_of_info">Recognize the importance of clarity in a PPT presentation.</skill>
+	<skill id="powerpoint_number_bullet_point">Determine number of bullet points appropriate for PPT slide.</skill>
+	<skill id="powerpoint_number_slides">Determine number of slides appropriate for a PPT presentation.</skill>
+	<skill id="powerpoint_visual">Recognize appropriate visual aspects of PPT slides.</skill>
+	<skill id="pro_image_answer_skill">Answer common interview questions.</skill>
+	<skill id="pro_image_challenge_skill">Identify types of interviews.</skill>
+	<skill id="pro_image_follow_up_skill">Follow-up plan.</skill>
+	<skill id="pro_image_interview_skill">Preparing for an interview.</skill>
+	<skill id="pro_image_stages_skill">Describe interview stages</skill>
+	<skill id="problem_solve_carry_out_plan">Carry out the plan</skill>
+	<skill id="problem_solve_evaluate">Evaluate the results</skill>
+	<skill id="problem_solve_make_plan">Make a plan based on strategy</skill>
+	<skill id="problem_solve_problem">Define the problem</skill>
+	<skill id="problem_solve_strategies">Identify strategies</skill>
+	<skill id="professionalism_principles_courtesy">Identify interactions that illustrate employees being courteous.</skill>
+	<skill id="professionalism_principles_empathy">Recognize behaviors that illustrate showing empathy.</skill>
+	<skill id="professionalism_principles_listening">Describe key aspects of effective listening.</skill>
+	<skill id="professionalism_principles_ownership">Identify responses that indicate an employee is taking ownership.</skill>
+	<skill id="professionalism_principles_timeliness">Recognize actions taken that illustrate timeliness.</skill>
+	<skill id="public_speaking_skill">Recognize positive and negative behaviors for giving a presentation.</skill>
+	<skill id="purpose_skill">Write a purpose statement.</skill>
+	<skill id="scientific_notation_skill">Express in scientific notation.</skill>
+	<skill id="significant_digits_skill">Significant digits</skill>
+	<skill id="summary_components_skill">Recognize components of a summary.</skill>
+	<skill id="summary_write_skill">Write a summary.</skill>
+	<skill id="teamwork_benefits_skill">Benefits of teamwork.</skill>
+	<skill id="teamwork_lead_skill">Leadership skills and strategies.</skill>
+	<skill id="teamwork_member_behavior_skill">Positive and negative team member behaviors.</skill>
+	<skill id="teamwork_nonverbal_skill">Non-verbal communication.</skill>
+	<skill id="teamwork_strategies_skill">Strategies for dealing with difficult team members.</skill>
+	<skill id="teamwork_teambuilding_skill">Identify Tuckman's stages.</skill>
+	<skill id="terminology_digits_decimals">Define decimals</skill>
+	<skill id="terminology_digits_digits">Define digits</skill>
+	<skill id="terminology_digits_integers">Define integers</skill>
+	<skill id="terminology_digits_whole_numbers">Define whole numbers</skill>
+	<skill id="terminology_express_identify_place_value">Identify place values</skill>
+	<skill id="terminology_express_write">Express a number in words</skill>
+	<skill id="triangle_angle_proportions_set_up">Set up proportion to determine angle/side for similar triangles.</skill>
+	<skill id="triangle_angle_protractor_skill">Measure an angle with a protractor.</skill>
+	<skill id="triangle_angle_sum_formula">Know the angle sum formula.</skill>
+	<skill id="triangle_angle_sum_sum">Determine angle with triangle sum theorem.</skill>
+	<skill id="triangle_classify_equilat_skill">Classify triangle as equilateral, isoceles, scalene</skill>
+	<skill id="triangle_classify_right_skill">Classify triangle as right, acute or obtuse.</skill>
+	<skill id="triangle_comp_supp_formula">Know complementary and supplementary formulas.</skill>
+	<skill id="triangle_identify_angle_identify">Identify an angle in a triangle.</skill>
+	<skill id="triangle_identify_angle_name">Name an angle in a triangle.</skill>
+	<skill id="triangle_identify_corresponding_skill">Identify corresponding angles and sides.</skill>
+	<skill id="triangle_pythagorean_formula">Apply the pythagorean theorem.</skill>
+	<skill id="triangle_trig_cos">Apply cosine.</skill>
+	<skill id="triangle_trig_cos_formula">Cosine formula.</skill>
+	<skill id="triangle_trig_sin">Apply sine.</skill>
+	<skill id="triangle_trig_sin_formula">Sine formula.</skill>
+	<skill id="triangle_trig_tan">Apply tangent.</skill>
+	<skill id="triangle_trig_tan_formula">Tangent formula.</skill>
+	<skill id="troubleshoot_documentation">Determine when reviewing documentation is required in the troubleshooting process.</skill>
+	<skill id="troubleshoot_follow">Apply actions of a prescribed troubleshooting process.</skill>
+	<skill id="troubleshoot_gathered">Use information gathered to draw conclusions.</skill>
+	<skill id="troubleshoot_identify_aspects">Identify general aspects of troubleshooting.</skill>
+	<skill id="troubleshoot_prioritize">Prioritize actions to take in the troubleshooting process.</skill>
+    </skills>
+
+    <objectives>
+	<objective id="algebra_rearrange">
+	    <description>Rearrange an equation to isolate a variable in one step.
+	    </description>
+	    <skills>
+		<skill idref="algebra_rearrange_opposite"/>
+		<skill idref="algebra_rearrange_rules"/>
+	    </skills>
+	</objective>
+	<objective id="algebra_rearrange_add">
+	    <description>Rearrange an equation containing addition and subtraction to isolate a variable in one step.
+	    </description>
+	    <skills>
+		<skill idref="algebra_rearrange_opposite"/>
+		<skill idref="algebra_rearrange_rules"/>
+	    </skills>
+	</objective>
+	<objective id="apply_calculate">
+	    <description>Analyze and apply information gained from computations to decision making.
+	    </description>
+	    <skills>
+		<skill idref="apply_calculate_skill"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions">
+	    <description>Apply arithmetic operations to problems involving fractions.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_fractions_scenario"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions_add">
+	    <description>Add and subtract like fractions.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idref="arithmetic_operations_add"/>
+		<skill idref="arithmetic_operations_subtract"/>
+		<skill idref="arithmetic_fractions_add_steps"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions_add_unlike">
+	    <description>Add and subtract unlike fractions.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idref="arithmetic_fractions_add_unlike_LCD"/>
+		<skill idref="arithmetic_operations_add"/>
+		<skill idref="arithmetic_operations_subtract"/>
+		<skill idref="arithmetic_fractions_add_unlike_equiv"/>
+		<skill idref="arithmetic_fractions_add_unlike_steps"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions_convert">
+	    <description>Convert among fractions, decimals and percents.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idref="arithmetic_operations_divide"/>
+		<skill idref="arithmetic_operations_multiply"/>
+		<skill idref="arithmetic_fractions_convert_steps_percent"/>
+		<skill idref="arithmetic_fractions_convert_steps_decimal"/>
+		<skill idref="arithmetic_fractions_convert_steps_percent_2_dec"/>
+		<skill idref="arithmetic_fractions_convert_multiply_percent"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions_multiply">
+	    <description>Multiply and divide fractions.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idref="arithmetic_operations_multiply"/>
+		<skill idref="arithmetic_operations_divide"/>
+		<skill idref="arithmetic_fractions_multiply_steps"/>
+		<skill idref="arithmetic_fractions_multiply_divide_steps"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_fractions_reduce">
+	    <description>Reduce a fraction to its simplest form.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_fractions_reduce_GCF"/>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idref="arithmetic_fractions_reduce_steps"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_identify">
+	    <description>Identify which arithmetic operator to use in a given situation.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_subtract_identify"/>
+		<skill idref="arithmetic_operations_divide_identify"/>
+		<skill idref="arithmetic_operations_add_identify"/>
+		<skill idref="arithmetic_operations_multiply_identify"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_II_variables">
+	    <description>Explain what variables represent in an equation.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_II_variables_skill"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_operations">
+	    <description>Apply arithmetic operations to problems involving whole numbers and decimals.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_whole"/>
+		<skill idref="arithmetic_operations_decimal"/>
+		<skill idref="arithmetic_operations_subtract"/>
+		<skill idref="arithmetic_operations_add"/>
+		<skill idref="arithmetic_operations_multiply"/>
+		<skill idref="arithmetic_operations_divide"/>
+		<skill idref="arithmetic_operations_communitive"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_operations_negative">
+	    <description>Apply arithmetic operations to problems involving negative values.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_negative_add_negative"/>
+		<skill idref="arithmetic_operations_negative_subtract_negative"/>
+		<skill idref="arithmetic_operations_negative_multiply"/>
+		<skill idref="arithmetic_operations_negative_divide"/>
+		<skill idref="arithmetic_operations_negative_less_than"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_round">
+	    <description>Round numbers to a specific place value.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_round"/>
+	    </skills>
+	</objective>
+	<objective id="arithmetic_scenario_expressions">
+	    <description>Convert given scenarios into algebraic expressions and equations.
+	    </description>
+	    <skills>
+		<skill idref="arithmetic_operations_subtract_identify"/>
+		<skill idref="arithmetic_operations_divide_identify"/>
+		<skill idref="arithmetic_operations_add_identify"/>
+		<skill idref="arithmetic_operations_multiply_identify"/>
+	    </skills>
+	</objective>
+	<objective id="audio_complete">
+	    <description>Listen to a conversation and determine information needed to complete a summary of the call. 
+	    </description>
+	    <skills>
+		<skill idref="audio_complete_skill"/>
+	    </skills>
+   	</objective>
+	<objective id="audio_summary">
+	    <description>Listen to a conversation and compose a summary of the information. 
+	    </description>
+	    <skills>
+		<skill idref="audio_summary_skill"/>
+	    </skills>
+   	</objective>
+	<objective id="behavior_types">
+	    <description>Identify various types of employee behaviors that contribute to a customer's positive or negative experience with the company.
+	    </description>
+	    <skills>
+		<skill idref="behavior_types_skill"/>
+	    </skills>
+   	</objective>
+	<objective id="calculate">
+	    <description>Choose and compute appropriate calculations.
+	    </description>
+ 	    <skills>
+		<skill idref="calculate_skill"/>
+	    </skills>
+   	</objective>
+	<objective id="cartesian_distance">
+	    <description>Calculate the distance between two points.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_distance_formula"/>
+		<skill idref="algebra_rearrange_add_sq_rt"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_graph_line">
+	    <description>Given a linear equation, graph a line on the coordinate plane.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_graph_line_equation"/>
+		<skill idref="cartesian_linear_equation_y"/>
+		<skill idref="cartesian_slope_graph_skill"/>
+		<skill idref="algebra_rearrange_rules"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_identify_slope">
+	    <description>Visually identify whether the slope of a line is positive, negati
+	    </description>
+	    <skills>
+		<skill idref="cartesian_identify_slope_skill"/>
+	    </skills>
+  	</objective>
+	<objective id="cartesian_intercept">
+	    <description>Given a point on a graph, recognize whether an ordered pair is an x
+	    </description>
+	    <skills>
+		<skill idref="cartesian_intercept_skill"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_linear_equation">
+	    <description>Given the coordinates of two points on a line, determine its linear e
+	    </description>
+	    <skills>
+		<skill idref="cartesian_linear_equation_equation"/>
+		<skill idref="cartesian_linear_equation_y"/>
+		<skill idref="cartesian_slope_graph_skill"/>
+		<skill idref="cartesian_slope_formula_formula"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_midpoint">
+	    <description>Calculate the midpoint between two points on a line.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_midpoint_formula"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_ordered_pair">
+	    <description>Given the point on a graph, determine the ordered pair.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_ordered_pair_skill"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_plot_points">
+	    <description>Graph points on the coordinate plane given an ordered pair.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_plot_points_skill"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_quadrant">
+	    <description>Describe the layout and identify the quadrants of the Cartesian
+	    </description>
+	    <skills>
+	    <skill idref="cartesian_quadrant_skill"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_slope_formula">
+	    <description>Given the coordinates of two points, determine the slope o
+	    </description>
+	    <skills>
+		<skill idref="cartesian_slope_formula_formula"/>
+		<skill idref="arithmetic_operations_num_denom"/>
+	    </skills>
+	</objective>
+	<objective id="cartesian_slope_graph">
+	    <description>Given a line on a graph, determine its slope.
+	    </description>
+	    <skills>
+		<skill idref="cartesian_slope_graph_skill"/>
+	    </skills>
+	</objective>
+	<objective id="com_problem_solve">
+	    <description>Apply critical thinking skills to real-life situations and evaluate the outcomes.
+	    </description>
+	    <skills>
+		<skill idref="com_problem_solve_problem"/>
+		<skill idref="arithmetic_operations_num_denom"/>
+		<skill idred="com_problem_solve_plan"/>
+		<skill idref="com_problem_solve_carry_out"/>
+		<skill idref="com_problem_solve_evaluate"/>
+	    </skills>
+	</objective>
+	<objective id="confident_storage">
+	    <description>Identify common locations where confidential information is stored and transmitted. 
+	    </description>
+	    <skills>
+		<skill idref="confident_storage_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_apply">
+	    <description>Determine the appropriate action or response to take in  order to maintain confidentiality in a variety of situations.
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_apply_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_breach_response">
+	    <description>Distinguish between appropriate and inappropriate responses to a breach in confidentiality. 
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_breach_response_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_criminals">
+	    <description>Identify the different ways that cybercriminals attack computers to steal information or ruin computer files.
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_criminals_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_protection">
+	    <description>Specify practices for safeguarding confidential information against cybercriminal attacks.
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_protection_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_social_media">
+	    <description>Recognize and explain the role of social media as it relates to the workplace.
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_social_media_skill"/>
+	    </skills>
+	</objective>
+	<objective id="confidentiality_types">
+	    <description>Identify types of information or data that is confidential.
+	    </description>
+	    <skills>
+		<skill idref="confidentiality_types_skill"/>
+	    </skills>
+	</objective>
+	<objective id="cross_product">
+	    <description>Solve equations using the cross-product.
+	    </description>
+	    <skills>
+		<skill idref="cross_product_skill"/>
+	    </skills>
+	</objective>
+	<objective id="customer_types">
+	    <description>Identify various customer types based on common customer behaviors.
+	    </description>
+	    <skills>
+		<skill idref="customer_types_skill"/>
+	    </skills>
+	</objective>
+	<objective id="data_define">
+	    <description>Define mean, median and mode.
+	    </description>
+	    <skills>
+		<skill idref="data_define_mean"/>
+		<skill idref="data_define_median"/>
+		<skill idref="data_define_mode"/>
+	    </skills>
+	</objective>
+	<objective id="data_determine_mean">
+	    <description>Determine the mean of a data set.
+	    </description>
+	    <skills>
+		<skill idref="data_determine_mean"/>
+		<skill idref="data_define_mean"/>
+	    </skills>
+	</objective>
+	<objective id="data_determine_median">
+	    <description>Determine the median and mode of a data set, given a data table.
+	    </description>
+	    <skills>
+		<skill idref="data_determine_median"/>
+		<skill idref="data_determine_median_mode"/>
+		<skill idref="data_define_median"/>
+	    </skills>
+	</objective>
+	<objective id="data_identify">
+	    <description>Recognize different types of graphs and diagrams.
+	    </description>
+	    <skills>
+		<skill idref="data_identify_skill"/>
+	    </skills>
+	</objective>
+	<objective id="data_steps_graph">
+	    <description>Apply the steps for creating a line graph.
+	    </description>
+	    <skills>
+		<skill idref="data_steps_graph_skill"/>
+	    </skills>
+	</objective>
+	<objective id="data_use">
+	    <description>Identify types of charts, graphs and diagrams that are appropriate to use based on a given situation.
+	    </description>
+	    <skills>
+		<skill idref="data_use_line"/>
+		<skill idref="data_use_bar"/>
+		<skill idref="data_use_pie"/>
+	    </skills>
+	</objective>
+	<objective id="define_confidentiality">
+	    <description>Define confidentiality and explain why it is important to maintain.
+	    </description>
+	    <skills>
+		<skill idref="define_confidentiality_skill"/>
+	    </skills>
+	</objective>
+	<objective id="effective_strategies">
+	    <description>Determine most effective strategies or responses for various types of customer service situations.
+	    </description>
+	    <skills>
+		<skill idref="effective_strategies_skill"/>
+	    </skills>
+	</objective>
+	<objective id="email">
+	    <description>Compose effective email communications for various workplace scenarios.
+	    </description>
+	    <skills>
+		<skill idref="email_intro"/>
+		<skill idref="email_body"/>
+		<skill idref="email_end"/>
+	    </skills>
+	</objective>
+	<objective id="essay">
+	    <description>Write an short essay using proper form.
+	    </description>
+	    <skills>
+		<skill idref="essay_skill"/>
+	    </skills>
+	</objective>
+	<objective id="filling_forms">
+	    <description>Demonstrate the ability to enter information correctly given a specific set of instructions.
+	    </description>
+	    <skills>
+		<skill idref="filling_forms_skill"/>
+	    </skills>
+	</objective>
+	<objective id="forms_importance">
+	    <description>Describe the importance of filling in forms completely and accurately.
+	    </description>
+	    <skills>
+		<skill idref="forms_importance_skill"/>
+	    </skills>
+	</objective>
+	<objective id="info_diagram">
+	    <description>Locate and interpret key information from flowcharts and diagrams.
+	    </description>
+	    <skills>
+		<skill idref="info_diagram_flowchart"/>
+		<skill idref="info_diagram_diagram"/>
+	    </skills>
+	</objective>
+	<objective id="info_multiple">
+	    <description>Analyze information from multiple sources to determine actions required in a given situation.
+	    </description>
+	    <skills>
+		<skill idref="info_multiple_skill"/>
+		<skill idref="info_table_skill"/>
+		<skill idref="info_diagram_diagram"/>
+	    </skills>
+	</objective>
+	<objective id="info_table">
+	    <description>Locate and interpret information from a chart or table.
+	    </description>
+	    <skills>
+		<skill idref="info_table_skill"/>
+	    </skills>
+	</objective>
+	<objective id="info_text">
+	    <description>Locate and interpret key information from text.
+	    </description>
+	    <skills>
+		<skill idref="info_text_skill"/>
+		<skill idref="info_text_topic_sentence"/>
+		<skill idref="info_text_key_terms"/>
+		<skill idref="info_text_bulleted_list"/>
+	    </skills>
+	</objective>
+	<objective id="interpret_graph">
+	    <description>Read and interpret charts, graphs and diagrams.
+	    </description>
+	    <skills>
+		<skill idref="interpret_graph_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_cover_letter">
+	    <description>Describe key elements of effective cover letters
+	    </description>
+	    <skills>
+		<skill idref="job_cover_letter_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_create target">
+	    <description>Create a resume targeted to the type of job you are seeking.
+	    </description>
+	    <skills>
+		<skill idref="job_create_target_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_identify_skills">
+	    <description>Identify your key skills and experience.
+	    </description>
+	    <skills>
+		<skill idref="job_identify_skills_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_locate">
+	    <description>Locate available jobs and match your skills and experience to the requirements.
+	    </description>
+	    <skills>
+		<skill idref="job_locate_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_master">
+	    <description>Create master application containing all key information needed for job applications
+	    </description>
+	    <skills>
+		<skill idref="job_master_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_resources">
+	    <description>Determine resources for locating jobs. 
+	    </description>
+	    <skills>
+		<skill idref="job_resources_skill"/>
+	    </skills>
+	</objective>
+	<objective id="job_resume_type">
+	    <description>Identify types of resumes and purpose for each type: chronological, functional, combination and determine which format is most appropriate to use for particular situation. 
+	    </description>
+	    <skills>
+		<skill idref="job_resume_type_chron"/>
+		<skill idref="job_resume_type_func"/>
+		<skill idref="job_resume_type_combo"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_cylinder">
+	    <description>Calculate the volume of a cylinder.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_sphere_exp"/>
+		<skill idref="measurements_algebra_sphere_order"/>
+		<skill idref="measurements_area_substitute"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_distributive">
+	    <description>Apply the distributive property to simplify or expand expressions.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_distributive_apply"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_exponents_law">
+	    <description>Apply the Law of exponents to mathematical expressions.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_exponents_law_skill"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_exponents">
+	    <description>Expand and multiply exponents.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_sphere_exp"/>
+		<skill idref="arithmetic_operations_multiply"/>
+	   </skills>
+	</objective>
+	<objective id="measurements_algebra_order">
+	    <description>Simplify expressions using the order of operations.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_sphere_order"/>
+		<skill idref="measurements_algebra_sphere_exp"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_polynomials">
+	    <description>Simplify algebraic expressions by adding and subtracting common terms.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_polynomials_terms"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_sphere">
+	    <description>Calculate the volume of a sphere.
+	    </description>
+	    <skills>
+		<skill idref="measurements_algebra_sphere_exp"/>
+		<skill idref="arithmetic_operations_multiply"/>
+		<skill idref="measurements_algebra_sphere_order"/>
+		<skill idref="measurements_area_substitute"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_algebra_substitute">
+	    <description>Substitute known values into an equation and solve.
+	    </description>
+	    <skills>
+		<skill idref="measurements_area_substitute"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_area">
+	    <description>Calculate the area and perimeter of rectangles and squares.
+	    </description>
+	    <skills>
+		<skill idref="measurements_area_area"/>
+		<skill idref="measurements_area_perimeter"/>
+		<skill idref="measurements_area_substitute"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_area_polygon">
+	    <description>Calculate the perimeter of polygons.
+	    </description>
+	    <skills>
+		<skill idref="measurements_area_polygon_skill"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_circumference_circle">
+	    <description>Calculate the circumference of circles.
+	    </description>
+	    <skills>
+		<skill idref="measurements_circumference_circle_skill"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_english_conv">
+	    <description>Convert between English standard units.
+	    </description>
+	    <skills>
+		<skill idref="measurements_english_conv_units"/>
+		<skill idref="measurements_english_conv_DA"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_english_metric">
+	    <description>Convert between English standard units to metric units.
+	    </description>
+	    <skills>
+		<skill idref="measurements_english_metric_units"/>
+		<skill idref="measurements_english_conv_DA"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_identify">
+	    <description>Identify common units used for measurements.
+	    </description>
+	    <skills>
+		<skill idref="measurements_identify_un_time"/>
+		<skill idref="measurements_identify_un_distance"/>
+		<skill idref="measurements_identify_un_temperature"/>
+		<skill idref="measurements_identify_un_weight"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_metric_conv">
+	    <description>Convert between metric units.
+	    </description>
+	    <skills>
+		<skill idref="measurements_metric_conv_steps"/>
+		<skill idref="measurements_metric_conv_prefixes"/>
+		<skill idref="measurements_metric_conv_units"/>
+		<skill idref="measurements_metric_conv_measurements"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_tools">
+	    <description>Identify common measuring tools for each measurement.
+	    </description>
+	    <skills>
+		<skill idref="measurements_tools_time"/>
+		<skill idref="measurements_tools_distance"/>
+		<skill idref="measurements_tools_temperature"/>
+		<skill idref="measurements_tools_weight"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_types">
+	    <description>Recognize various types of measurements (distance, time, temperature, weight/mass).
+	    </description>
+	    <skills>
+		<skill idref="measurements_types_weight"/>
+	    </skills>
+	</objective>
+	<objective id="measurements_volume">
+	    <description>Calculate the volume of rectangular prisms.
+	    </description>
+	    <skills>
+		<skill idref="measurements_volume_volume"/>
+		<skill idref="arithmetic_operations_multiply"/>
+		<skill idref="measurements_area_substitute"/>
+		<skill idref="measurements_volume_units"/>
+	    </skills>
+	</objective>
+	<objective id="memo">
+	    <description>Compose a professional business memo.
+	    </description>
+	    <skills>
+		<skill idref="memo_support"/>
+		<skill idref="memo_action"/>
+	    </skills>
+	</objective>
+	<objective id="org_determine_time">
+	    <description>Determine the amount of time needed for each task.
+	    </description>
+	    <skills>
+		<skill idref="org_determine_time_skill"/>
+	    </skills>
+	</objective>
+	<objective id="org_evaluate">
+	    <description>Evaluate the effectiveness of the organizational plan.
+	    </description>
+	    <skills>
+		<skill idref="org_evaluate_skill"/>
+	    </skills>
+	</objective>
+	<objective id="org_identify_tasks">
+	    <description>Identify tasks to be accomplished and determine most appropriate way to organize.
+	    </description>
+	    <skills>
+		<skill idref="org_identify_tasks_skill"/>
+	    </skills>
+	</objective>
+	<objective id="org_plan">
+	    <description>Determine the steps in a process, place them in order and develop a plan.
+	    </description>
+	    <skills>
+		<skill idref="org_plan_skill"/>
+	    </skills>
+	</objective>
+	<objective id="powerpoint">
+	    <description>Determine most effective layout of information on slides for presentation.
+	    </description>
+	    <skills>
+		<skill idref="powerpoint_number_slides"/>
+		<skill idref="powerpoint_number_bullet_point"/>
+		<skill idref="powerpoint_clarity_of_info"/>
+		<skill idref="powerpoint_visual"/>
+	    </skills>
+	</objective>
+	<objective id="pro_image_answer">
+	    <description>Answer common interview questions.
+	    </description>
+	    <skills>
+		<skill idref="pro_image_answer_skill"/>
+	    </skills>
+	</objective>
+	<objective id="pro_image_challenge">
+	    <description>Describe types of interviews and specific challenges of each.
+	    </description>
+	    <skills>
+		<skill idref="pro_image_challenge_skill"/>
+	    </skills>
+	</objective>
+	<objective id="pro_image_follow_up">
+	    <description>Develop a plan for following up with an interview.
+	    </description>
+	    <skills>
+		<skill idref="pro_image_follow_up_skill"/>
+	    </skills>
+	</objective>
+	<objective id="pro_image_interview">
+	    <description>Describe the process of preparing for an interview.
+	    </description>
+	    <skills>
+		<skill idref="pro_image_interview_skill"/>
+	    </skills>
+	</objective>
+	<objective id="pro_image_stages">
+	    <description>Describe the four stages of an interview.
+	    </description>
+	    <skills>
+		<skill idref="pro_image_stages_skill"/>
+	    </skills>
+	</objective>
+	<objective id="problem_solve">
+	    <description>Apply mathematical and problem solving skills to larger, real-life situations and evaluate the outcomes.
+	    </description>
+	    <skills>
+		<skill idref="problem_solve_problem"/>
+		<skill idref="problem_solve_strategies"/>
+		<skill idref="problem_solve_make_plan"/>
+		<skill idref="problem_solve_carry_out_plan"/>
+		<skill idref="problem_solve_evaluate"/>
+	    </skills>
+	</objective>
+	<objective id="professionalism_principles">
+	    <description>Recognize and explain the general principles of good customer service.
+	    </description>
+	    <skills>
+		<skill idref="professionalism_principles_listening"/>
+		<skill idref="professionalism_principles_ownership"/>
+		<skill idref="professionalism_principles_courtesy"/>
+		<skill idref="professionalism_principles_timeliness"/>
+		<skill idref="professionalism_principles_empathy"/>
+	    </skills>
+	</objective>
+	<objective id="public_speaking">
+	    <description>Describe appropriate public speaking guidelines.
+	    </description>
+	    <skills>
+		<skill idref="public_speaking_skill"/>
+	    </skills>
+	</objective>
+	<objective id="purpose">
+	    <description>Write an effective purpose statement.
+	    </description>
+	    <skills>
+		<skill idref="purpose_skill"/>
+	    </skills>
+	</objective>
+	<objective id="scientific_notation">
+	    <description>Express values using scientific notation.
+	    </description>
+	    <skills>
+		<skill idref="scientific_notation_skill"/>
+	    </skills>
+	</objective>
+	<objective id="significant_digits">
+	    <description>Identify significant digits in a value.
+	    </description>
+	    <skills>
+		<skill idref="significant_digits_skill"/>
+	    </skills>
+	</objective>
+	<objective id="summary_components">
+	    <description>Identify key components in an effective summary of  information.
+	    </description>
+	    <skills>
+		<skill idref="summary_components_skill"/>
+	    </skills>
+	</objective>
+	<objective id="summary_write">
+	    <description>Write a summary of a situation with all necessary components.
+	    </description>
+	    <skills>
+		<skill idref="summary_write_skill"/>
+		<skill idref="summary_components_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_benefits">
+	    <description>Describe the benefits of teamwork in the workplace.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_benefits_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_lead">
+	    <description>Identify positive leadership behaviors and effective strategies for keeping a team on track.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_lead_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_member_behavior">
+	    <description>Describe employee behaviors that positively and negatively affect teamwork.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_member_behavior_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_nonverbal">
+	    <description>Recognize and explain the importance of positive interpersonal skills and non-verbal communication.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_nonverbal_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_strategies">
+	    <description>Identify strategies for responding to negative team behavior.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_strategies_skill"/>
+	    </skills>
+	</objective>
+	<objective id="teamwork_teambuilding">
+	    <description>Identify Tuckman�s stages of team development.
+	    </description>
+	    <skills>
+		<skill idref="teamwork_teambuilding_skill"/>
+	    </skills>
+	</objective>
+	<objective id="terminology_digits">
+	    <description>Define and recognize digits, place value, whole numbers, decimal points, and decimals.
+	    </description>
+	    <skills>
+		<skill idref="terminology_digits_whole_numbers"/>
+		<skill idref="terminology_digits_decimals"/>
+		<skill idref="terminology_digits_integers"/>
+		<skill idref="terminology_digits_digits"/>
+	    </skills>
+	</objective>
+	<objective id="terminology_express">
+	    <description>Express numbers using words.
+	    </description>
+	    <skills>
+		<skill idref="terminology_express_identify_place_value"/>
+		<skill idref="terminology_express_write"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_angle_proportions">
+	    <description>Determine corresponding angles and sides of similar triangles,
+	    </description>
+	    <skills>
+		<skill idref="triangle_angle_proportions_set_up"/>
+		<skill idref="cross_product_skill"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_angle_protractor">
+	    <description>Measure an angle using a protractor.
+	    </description>
+	    <skills>
+		<skill idref="triangle_angle_protractor_skill"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_angle_sum">
+	    <description>Use the triangle angle sum theorem to determine the measure of an angle
+	    </description>
+	    <skills>
+		<skill idref="triangle_angle_sum_formula"/>
+		<skill idref="algebra_rearrange_rules"/>
+		<skill idref="triangle_angle_sum_sum"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_classify_equilat">
+	    <description>Classify triangles by their sides as equilateral, isosceles, or scalene.
+	    </description>
+	    <skills>
+		<skill idref="triangle_classify_equilat_skill"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_classify_right">
+	    <description>Classify triangles by their angles as right, obtuse, or equilateral.
+	    </description>
+	    <skills>
+		<skill idref="triangle_classify_right_skill"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_comp_supp">
+	    <description>Determine the measure of an angle by applying the concept of complementary
+	    </description>
+	    <skills>
+		<skill idref="triangle_comp_supp_formula"/>
+		<skill idref="algebra_rearrange_rules"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_identify_angle">
+	    <description>Identify and name an angle.
+	    </description>
+	    <skills>
+		<skill idref="triangle_identify_angle_identify"/>
+		<skill idref="triangle_identify_angle_name"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_identify_corresponding">
+	    <description>Identify corresponding sides and angles in similar triangles.
+	    </description>
+	    <skills>
+		<skill idref="triangle_identify_corresponding_skill"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_pythagorean">
+	    <description>Apply the Pythagorean Theorem to calculate the lengt
+	    </description>
+	    <skills>
+		<skill idref="triangle_pythagorean_formula"/>
+		<skill idref="algebra_rearrange_add_sq_rt"/>
+		<skill idref="algebra_rearrange_rules"/>
+	    </skills>
+	</objective>
+	<objective id="triangle_trig">
+	    <description>Calculate all angles and sides of a right triangle using trigonometry.
+	    </description>
+	    <skills>
+		<skill idref="triangle_trig_sin"/>
+		<skill idref="triangle_trig_cos"/>
+		<skill idref="triangle_trig_tan"/>
+		<skill idref="algebra_rearrange_rules"/>
+		<skill idref="triangle_trig_sin_formula"/>
+		<skill idref="triangle_trig_cos_formula"/>
+		<skill idref="triangle_trig_tan_formula"/>
+	   </skills>
+	</objective>
+	<objective id="troubleshoot">
+	    <description>Apply the general troubleshooting process to situations.
+	    </description>
+	    <skills>
+		<skill idref="troubleshoot_prioritize"/>
+		<skill idref="troubleshoot_documentation"/>
+		<skill idref="troubleshoot_follow"/>
+		<skill idref="troubleshoot_gathered"/>
+		<skill idref="troubleshoot_identify_aspects"/>
+	    </skills>
+	</objective>
+    </objectives>
+</skills-map>
