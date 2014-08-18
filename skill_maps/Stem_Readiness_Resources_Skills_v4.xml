@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources id="stem_readiness">
+    <resource id="arithmetic_p3_q1">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_decimal"/>
+            <skill idref="arithmetic_operations_divide"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q2">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_whole"/>
+            <skill idref="arithmetic_operations_add"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q3">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_whole"/>
+            <skill idref="arithmetic_operations_divide"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q4">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_whole"/>
+            <skill idref="arithmetic_operations_multiply"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q5">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_decimal"/>
+            <skill idref="arithmetic_operations_multiply"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q6">
+        <skills>
+            <skill idref="arithmetic_operations_communitive"/>
+            <skill idref="arithmetic_operations_decimal"/>
+            <skill idref="arithmetic_operations_subtract"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q7">
+        <skills>
+            <skill idref="arithmetic_operations_whole"/>
+            <skill idref="arithmetic_operations_divide"/>
+            <skill idref="arithmetic_operations_divide_identify"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q8">
+        <skills>
+            <skill idref="arithmetic_operations_whole"/>
+            <skill idref="arithmetic_operations_divide"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q9">
+        <skills>
+            <skill idref="arithmetic_operations_add_identify"/>
+            <skill idref="arithmetic_operations_add"/>
+            <skill idref="arithmetic_operations_decimal"/>
+        </skills>
+    </resource>
+    <resource id="arithmetic_p3_q10">
+        <skills>
+            <skill idref="arithmetic_operations_add_identify"/>
+            <skill idref="arithmetic_operations_add"/>
+            <skill idref="arithmetic_operations_whole"/>
+        </skills>
+    </resource>
+</resources>
